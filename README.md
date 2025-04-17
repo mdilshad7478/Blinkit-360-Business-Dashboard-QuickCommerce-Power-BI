@@ -38,3 +38,4 @@ This report focuses on providing a comprehensive view of stock information. It h
 
 #### 6. 📣 Marketing Report
 The Marketing report analyzes the impact of campaigns and promotions on sales and customer acquisition. It tracks key metrics like conversion rates, ad performance, and revenue generated from marketing efforts. By identifying successful campaigns, businesses can optimize marketing strategies for better ROI.
+![Image](https://github.com/user-attachments/assets/94f218c1-acbc-45cd-8523-80a86e793964)
