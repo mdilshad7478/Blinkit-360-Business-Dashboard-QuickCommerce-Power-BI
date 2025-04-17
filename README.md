@@ -1,4 +1,4 @@
-# 🛒 Blinkit-360°-Business-Dashboard-QuickCommerce-Power-BI
+# 🛒 Blinkit 360° Business Dashboard-QuickCommerce | Power-BI | SQL | Figma
 
 ## 📌 Project Overview
 This Power BI dashboard project is a comprehensive business intelligence solution for Blinkit, a fast-paced quick-commerce platform that delivers groceries and essentials within minutes. With high data volume and operational complexity, the project aims to simplify decision-making through effective data visualization and performance monitoring.
