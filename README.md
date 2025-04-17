@@ -9,3 +9,11 @@ The dashboard consolidates critical business metrics such as sales, inventory le
 + Power BI - Dashboard creation & interactivity
 + SQL -	Data querying & backend setup
 + Figma	- UI design inspiration
+
+### ✅ Key Highlights
++ 📦 Order Volume & Delivery Insights
++ 🛒 Sales Trends by Region, Category, Time
++ 👤 Customer Behavior & Feedback Analysis
++ 🧾 Inventory Tracking & Restocking Needs
++ 📈 Marketing Campaign Performance
++ 🧠 Dynamic filters, drill-downs & real-time metrics
