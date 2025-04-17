@@ -21,6 +21,8 @@ The dashboard consolidates critical business metrics such as sales, inventory le
 ## 🧩 Project Components
 The dashboard consists of a home page with navigation buttons that link to the following report pages:
 
+![Image](https://github.com/user-attachments/assets/6da632f8-ea5c-49dd-a78e-5ad87ff5a0ee)
+
 #### 1. 📍 Overview Report
 The Overview report provides a high-level snapshot of the business performance across key metrics. It highlights total revenue, orders, operational efficiency, and customer engagement. This report serves as a quick summary for stakeholders to assess overall business health and growth trends.
 
@@ -43,6 +45,8 @@ This report focuses on analyzing customer feedback to evaluate service quality a
 
 #### 5. 🧾 Inventory Report
 This report focuses on providing a comprehensive view of stock information. It highlights the total stock received, out of which it shows how much was damaged and how much is currently available. Additionally, it features a stock movement percentage, indicating the proportion of stock that has been utilized or moved. The remaining stock is clearly displayed, allowing for quick assessment of whether restocking is required. Overall, the report offers valuable insights into inventory trends and stock health for better decision-making.
+
+![Image](https://github.com/user-attachments/assets/4ddd1840-ebec-4b76-9847-ab023e3cfd5f)
 
 #### 6. 📣 Marketing Report
 The Marketing report analyzes the impact of campaigns and promotions on sales and customer acquisition. It tracks key metrics like conversion rates, ad performance, and revenue generated from marketing efforts. By identifying successful campaigns, businesses can optimize marketing strategies for better ROI.
