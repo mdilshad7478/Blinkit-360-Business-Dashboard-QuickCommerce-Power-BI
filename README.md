@@ -29,11 +29,17 @@ The Overview report provides a high-level snapshot of the business performance a
 #### 2. 💰 Sales Overview
 The Sales Overview report offers a comprehensive breakdown of sales performance across various regions, time periods, and product categories. It identifies trends, peak sales periods, and revenue contributions from key areas. This report helps businesses understand sales drivers and plan strategies to boost overall revenue.
 
+![Image](https://github.com/user-attachments/assets/4f87cc2e-1747-4fd7-9a48-14929ef90702)
+
 #### 3. 👤 Customer Report
 The Customer report focuses on customer behavior and order patterns. It includes insights such as top-ordering customers, repeat purchase rates, and demographic details. This report helps businesses identify loyal customers, understand preferences, and enhance satisfaction by addressing customer needs effectively.
 
+![Image](https://github.com/user-attachments/assets/ad32ffae-eb58-4271-9d4a-aefc02bc75d3)
+
 #### 4. 💬 Feedback Report
 This report focuses on analyzing customer feedback to evaluate service quality and customer satisfaction. It categorizes feedback into positive, neutral, and negative sentiments, providing a clear understanding of how customers perceive their experience. This report helps to identify service issues, understand customer expectations, and support strategic improvements aimed at enhancing the overall customer experience.
+
+![Image](https://github.com/user-attachments/assets/2f6791c9-1ca9-4182-9145-3cc44fbea7f5)
 
 #### 5. 🧾 Inventory Report
 This report focuses on providing a comprehensive view of stock information. It highlights the total stock received, out of which it shows how much was damaged and how much is currently available. Additionally, it features a stock movement percentage, indicating the proportion of stock that has been utilized or moved. The remaining stock is clearly displayed, allowing for quick assessment of whether restocking is required. Overall, the report offers valuable insights into inventory trends and stock health for better decision-making.
