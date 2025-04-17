@@ -24,6 +24,8 @@ The dashboard consists of a home page with navigation buttons that link to the f
 #### 1. 📍 Overview Report
 The Overview report provides a high-level snapshot of the business performance across key metrics. It highlights total revenue, orders, operational efficiency, and customer engagement. This report serves as a quick summary for stakeholders to assess overall business health and growth trends.
 
+![Image](https://github.com/user-attachments/assets/9bc49482-d65d-4926-b5e7-ec9d8d976b64)
+
 #### 2. 💰 Sales Overview
 The Sales Overview report offers a comprehensive breakdown of sales performance across various regions, time periods, and product categories. It identifies trends, peak sales periods, and revenue contributions from key areas. This report helps businesses understand sales drivers and plan strategies to boost overall revenue.
 
@@ -38,4 +40,5 @@ This report focuses on providing a comprehensive view of stock information. It h
 
 #### 6. 📣 Marketing Report
 The Marketing report analyzes the impact of campaigns and promotions on sales and customer acquisition. It tracks key metrics like conversion rates, ad performance, and revenue generated from marketing efforts. By identifying successful campaigns, businesses can optimize marketing strategies for better ROI.
+
 ![Image](https://github.com/user-attachments/assets/94f218c1-acbc-45cd-8523-80a86e793964)
