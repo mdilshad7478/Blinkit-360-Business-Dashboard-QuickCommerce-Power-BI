@@ -18,7 +18,7 @@ The dashboard consolidates critical business metrics such as sales, inventory le
 + 📈 Marketing Campaign Performance
 + 🧠 Dynamic filters, drill-downs & real-time metrics
   
-###  🧩 Project Components
+## 🧩 Project Components
 The dashboard consists of a home page with navigation buttons that link to the following report pages:
 
 #### 1. 📍 Overview Report
